@@ -1,6 +1,6 @@
-group: "Academia-Ambiente de prueba"
+grupo: "Academia-Ambiente de pruebas"
 
-aplication:
+aplicacion:
   version: 0.1.0
-  country: "mx"
-  languaje: "en"
+  pais: "mx"
+  lenguaje: "en"

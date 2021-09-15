@@ -1,6 +1,6 @@
-group: "Academia"
+grupo: "Academia"
 
-aplication:
+aplicacion:
   version: 1.0
-  country: "mx"
-  languaje: "es"
+  pais: "mx"
+  lenguaje: "es"
